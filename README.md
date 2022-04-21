@@ -24,7 +24,7 @@
    > And many more to Come
 
 
-- Here is the Web app link [Click here](#) to open the project web app
+- Here is the Web app link [Click here](https://mango-ocean-019ff1c10.1.azurestaticapps.net/) to open the project web app
 
 
 
