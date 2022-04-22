@@ -14,7 +14,7 @@
 
 - This is a Future Ready Talent Internship Program which I have developed this project and showcase the project here 
 
-- This repository consists of files required to deploy a ___Web App or PWA___ created with ___Materialize Css___ on ___Microsoft___ Azure
+- This repository consists of files required to deploy a ___Web App or PWA___ created with ___Materialize Css___ on ___Microsoft___ Azure and hosted in Azure as a static web app 
 
 - Basiclly My Project is a Type of Web app (Contains Tools)in which user can interacts with 4 Different Tools Such as <br>
    > 1.Qr Code Generator <br>
@@ -24,32 +24,36 @@
    > And many more to Come
 
 
-- Here is the Web app link [Click here](https://mango-ocean-019ff1c10.1.azurestaticapps.net/) to open the project web app
+- Here is the Web app link [Click here](https://brave-tree-066f6fc10.1.azurestaticapps.net/) to open the project web app
 
 
 # Screenshot 
 
 ## - Home page 
 
-![home page](https://user-images.githubusercontent.com/52885495/164731961-3696da5b-5b58-481a-b92e-3413e3c5a885.png)
+![home](https://user-images.githubusercontent.com/52885495/164740864-5d6bfda9-f922-4920-9b20-ae30c21790ad.png)
+
+## - home page dark mode
+![dark](https://user-images.githubusercontent.com/52885495/164741054-644b1812-1bfc-45eb-bd63-e6bf35fbddd9.png)
+
 
 ## - tools 
 
-![todo list](https://user-images.githubusercontent.com/52885495/164732463-42b3c798-400b-4289-a352-a597323aeb19.png)
+![todo list](https://user-images.githubusercontent.com/52885495/164741854-55a389c6-a92b-43f4-be6e-554b495134be.png)
+
+![qr gen](https://user-images.githubusercontent.com/52885495/164741914-8586e38a-d993-4bd9-ba53-01da59558db2.png)
+
+![passgen](https://user-images.githubusercontent.com/52885495/164742266-3b9d0d0a-d86e-4022-95ee-1d864973a1d4.png)
+
+![draw](https://user-images.githubusercontent.com/52885495/164742312-4a9aaf28-0124-4e9b-b27b-7544e3cab4a7.png)
+
 
 ## -prompt 
 
-![how to pop up](https://user-images.githubusercontent.com/52885495/164732504-6f2002a2-04b1-4623-9146-19dc338fdd43.png)
+![howto](https://user-images.githubusercontent.com/52885495/164741488-eaff8d7e-808a-4cc2-a6a3-305a2cc911c5.png)
 
 
-### So What is PWA
-      
-A progressive web application (PWA), commonly known as a progressive web app, is a type of application software delivered through the web, built using common web technologies including HTML, CSS, JavaScript, and WebAssembly. It is intended to work on any platform that uses a standards-compliant browser, including both desktop and mobile devices.
 
-Since a progressive web app is a type of webpage or website known as a web application, they do not require  separate bundling or distribution. Developers can just publish the web application online, ensure that it  meets baseline "installability requirements", and users will be able to add the application to their home  screen.
-
-Publishing the app to digital distribution systems like Apple App Store or Google Play is optional
-  
 To know about PWA You can visit this [site](https://web.dev/progressive-web-apps/)
 
 <!-- Here is the all Screen Shot That I have Taken during the project 
