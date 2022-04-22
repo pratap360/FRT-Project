@@ -27,10 +27,19 @@
 - Here is the Web app link [Click here](https://mango-ocean-019ff1c10.1.azurestaticapps.net/) to open the project web app
 
 
-# - Home page 
+# Screenshot 
+
+## - Home page 
 
 ![home page](https://user-images.githubusercontent.com/52885495/164731961-3696da5b-5b58-481a-b92e-3413e3c5a885.png)
 
+## - tools 
+
+![todo list](https://user-images.githubusercontent.com/52885495/164732463-42b3c798-400b-4289-a352-a597323aeb19.png)
+
+## -prompt 
+
+![how to pop up](https://user-images.githubusercontent.com/52885495/164732504-6f2002a2-04b1-4623-9146-19dc338fdd43.png)
 
 
 ### So What is PWA
@@ -43,9 +52,10 @@ Publishing the app to digital distribution systems like Apple App Store or Googl
   
 To know about PWA You can visit this [site](https://web.dev/progressive-web-apps/)
 
-Here is the all Screen Shot That I have Taken during the project 
+<!-- Here is the all Screen Shot That I have Taken during the project 
 [Click here to view](https://drive.google.com/drive/folders/1ju8RBR4_yzcdH6oo5kwubBvPUIjZMH17?usp=sharing)
 Here is the Google Drive Link to my Screen shots and video
 [Click here to view](https://drive.google.com/drive/folders/1ju8RBR4_yzcdH6oo5kwubBvPUIjZMH17?usp=sharing)
 
 Don't know why the link is not responding 
+ -->
