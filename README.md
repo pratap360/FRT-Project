@@ -27,6 +27,11 @@
 - Here is the Web app link [Click here](https://mango-ocean-019ff1c10.1.azurestaticapps.net/) to open the project web app
 
 
+# - Home page 
+
+![home page](https://user-images.githubusercontent.com/52885495/164731961-3696da5b-5b58-481a-b92e-3413e3c5a885.png)
+
+
 
 ### So What is PWA
       
