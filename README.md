@@ -27,33 +27,6 @@
 - Here is the Web app link [Click here](https://brave-tree-066f6fc10.1.azurestaticapps.net/) to open the project web app
 
 
-# Screenshot 
-
-## - Home page 
-
-![home](https://user-images.githubusercontent.com/52885495/164740864-5d6bfda9-f922-4920-9b20-ae30c21790ad.png)
-
-## - home page dark mode
-![dark](https://user-images.githubusercontent.com/52885495/164741054-644b1812-1bfc-45eb-bd63-e6bf35fbddd9.png)
-
-
-## - tools 
-
-![todo list](https://user-images.githubusercontent.com/52885495/164741854-55a389c6-a92b-43f4-be6e-554b495134be.png)
-
-![qr gen](https://user-images.githubusercontent.com/52885495/164741914-8586e38a-d993-4bd9-ba53-01da59558db2.png)
-
-![passgen](https://user-images.githubusercontent.com/52885495/164742266-3b9d0d0a-d86e-4022-95ee-1d864973a1d4.png)
-
-![draw](https://user-images.githubusercontent.com/52885495/164742312-4a9aaf28-0124-4e9b-b27b-7544e3cab4a7.png)
-
-
-## -prompt 
-
-![howto](https://user-images.githubusercontent.com/52885495/164741488-eaff8d7e-808a-4cc2-a6a3-305a2cc911c5.png)
-
-
-
 To know about PWA You can visit this [site](https://web.dev/progressive-web-apps/)
 
 <!-- Here is the all Screen Shot That I have Taken during the project 
